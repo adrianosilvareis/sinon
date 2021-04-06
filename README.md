@@ -1,2 +1,2 @@
-# este projeto tem como finalidade treinar o uso da biblioteca sinon
-## foi implementado um crud para a coleção todoList, com um banco de dados em memória
+# this project aims to train the use of the sinon library
+## a crud was implemented for the todoList collection, with a database in memory fully developed for this application
